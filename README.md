@@ -46,22 +46,6 @@
     src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" 
     alt="PostgreSQL" 
   />
-  <img 
-    src="https://img.shields.io/badge/JasperReports-000000?style=for-the-badge&logo=jasperreports&logoColor=white" 
-    alt="JasperReports" 
-  />
-  <img 
-    src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" 
-    alt="Flutter" 
-  />
-  <img 
-    src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" 
-    alt="MongoDB" 
-  />
-  <img 
-    src="https://img.shields.io/badge/Odoo-4B0082?style=for-the-badge&logo=odoo&logoColor=white" 
-    alt="Odoo" 
-  />
 </p>
 
 <p align="left">
@@ -95,10 +79,6 @@
   <img 
     src="https://img.shields.io/badge/Spanish-Native-red?style=for-the-badge" 
     alt="Spanish" 
-  />
-  <img 
-    src="https://img.shields.io/badge/Catalan-Native-yellow?style=for-the-badge" 
-    alt="Catalan" 
   />
 </p>
 
