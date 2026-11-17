@@ -1,4 +1,7 @@
-<h1 align="left">Hi! I'm <code>&lt;/Marck&gt;</code></h1>
+<h1 align="left">
+  Hi! I'm <code>&lt;/Marck&gt;</code> 
+  <img src="https://play.pokemonshowdown.com/sprites/gen5ani/rotom.gif" alt="Rotom Pixel" width="65px" />
+</h1>
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=9D4EDD&vCenter=true&width=520&height=40&lines=PHP+%7C+HTML+%7C+CSS+%7C+JAVA+%7C+PYTHON;Systems+Engineer+%26+Web+Developer;AI-Assisted+Web+Development;Building+with+MySQL+%26+PostgreSQL;UI%2FUX+Design+with+Figma" alt="Typing SVG" />
