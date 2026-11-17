@@ -1,11 +1,15 @@
+<h1 align="left">Hi! I'm <code>&lt;/Marck&gt;</code></h1>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=andhielo&label=Profile%20views&color=8A2BE2&style=for-the-badge" alt="Profile views" />
+</p>
+
 <img 
   src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
   alt="illustration of a computer" 
-  width="340px" 
+  width="320px" 
   align="right" 
 />
-
-<h1 align="left">Hi! I'm <code>&lt;/Marck&gt;</code></h1>
 
 <p align="left">
   I'm a <strong>systems engineer</strong> specialized in <strong>web development</strong>. 
@@ -18,13 +22,6 @@
 <br clear="right"/>
 
 <h2 align="left">🛠 &nbsp;My Skills Include</h2>
-
-<img 
-  alt="Night Coding" 
-  src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" 
-  width="380px" 
-  align="right" 
-/>
 
 <p align="left">
   🛠️ <strong>Languages I work with:</strong>
@@ -59,11 +56,9 @@
   <img src="https://img.shields.io/badge/Spanish-Native-red?style=for-the-badge" alt="Spanish" />
 </p>
 
-<br clear="right"/>
+<br/>
 
-<p align="left">
-  💌 Feel free to reach out: ⤵️
-</p>
+<h2 align="left">💌 &nbsp;Feel free to reach out</h2>
 
 <p align="left">
   <a href="mailto:andhielorojaz@hotmail.com">
@@ -72,4 +67,14 @@
   <a href="https://www.linkedin.com/in/marck-andhielo-antunez-rojas-960495367/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img 
+    alt="Night Coding" 
+    src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" 
+    width="500px" 
+  />
 </p>
