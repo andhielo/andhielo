@@ -1,7 +1,7 @@
 <h1 align="left">Hi! I'm <code>&lt;/Marck&gt;</code></h1>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=9D4EDD&vCenter=true&width=520&height=40&lines=PHP+%7C+HTML+%7C+CSS+%7C+JAVA+%7C+PYTHON;Systems+Engineer+%26+Web+Developer;Building+with+MySQL+%26+SQLSERVER;UI%2FUX+Design+with+Figma" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=9D4EDD&vCenter=true&width=520&height=40&lines=PHP+%7C+HTML+%7C+CSS+%7C+JAVA+%7C+PYTHON;Systems+Engineer+%26+Web+Developer;AI-Assisted+Web+Development;Building+with+MySQL+%26+PostgreSQL;UI%2FUX+Design+with+Figma" alt="Typing SVG" />
 </p>
 
 <p align="left">
@@ -42,13 +42,16 @@
 </p>
 
 <p align="left">
-  💼 <strong>Tools and skills:</strong>
+  💼 <strong>Tools and AI workflow:</strong>
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
 </p>
 
 <p align="left">
