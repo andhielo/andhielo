@@ -1,7 +1,7 @@
 <h1 align="left">Hi! I'm <code>&lt;/Marck&gt;</code></h1>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=andhielo&label=Profile%20views&color=8A2BE2&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AQUI-TU-USUARIO&label=Profile%20views&color=8A2BE2&style=for-the-badge" alt="Profile views" />
 </p>
 
 <img 
@@ -54,6 +54,25 @@
 <p align="left">
   <img src="https://img.shields.io/badge/English-intermediate-blue?style=for-the-badge" alt="English" />
   <img src="https://img.shields.io/badge/Spanish-Native-red?style=for-the-badge" alt="Spanish" />
+</p>
+
+<br/>
+
+<h2 align="left">📊 &nbsp;GitHub Analytics</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andhielo&theme=radical" alt="GitHub Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andhielo&theme=radical" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andhielo&theme=radical" alt="Most Commit Language" />
+</p>
+
+<h2 align="left">🔥 &nbsp;Contribution Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=andhielo&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
 <br/>
